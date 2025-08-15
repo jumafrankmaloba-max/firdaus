@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>title</title>
+</head>My altschool profile</title>
+<body>
+    <!-- Anchor for top-->
+     <a id="top"></a>
+
+    <h1>My Altschool Profile</h1>
+
+     <h2>basic information</h2>
+     <p><strong>Full name:</strong>Frankline Malobs</p>
+     <p><strong>Altschool ID:</strong> ALT/SOE/025/3256</p>
+     <p><strong>Email:</strong>jumafrank.maloba@gmail.com</p>
+     <p><strong>Location:</strong>Nairobi Kenaya</p>
+
+     <h2>Biography</h2>
+     <p>
+        I am a passionate learner with a strong interest in technology and innovation. 
+        I enjoy building, breaking, and learning how things work. I have always been drawn 
+        to solving real-world problems through creative and logical thinking.
+     </p>
+
+     <h2>My goals</h2>
+     <ul>
+     <li>To become a proficient software developer.</li>
+     <li>To contribute to open-source projects.</li>
+     <li>To mentor others in the tech community.</li>
+     </ul>
+
+
+     <!-- Fragment Identifier to scrol up-->
+     <p><a href="#top">Back to top</a></p> 
+     git commit -m "Add altschool profile page"
+        <p><a href="  
+      
+</body>
+</html>
