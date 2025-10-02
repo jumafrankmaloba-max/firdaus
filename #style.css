@@ -1,0 +1,74 @@
+/* stylying the body container */
+#body-container{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    /* background-color: #ff0000; */
+    font-family: arial, helvetica, sans-serif;
+    /* margin: 0; */
+
+}
+h1{
+    font-size: 3rem;
+    color: #ff0000;
+    font-weight: bold;
+    font-family: "Alfa Slab One", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#display{
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: "Alfa Slab One", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 30px;
+}
+
+.btn-controls{
+    display: flex;
+    flex-direction: row;
+    gap: 10px; 
+    border: 1px solid grey;
+    padding: 40px 30px;
+    border-radius: 10px;
+}
+
+.btn-controls button{
+    font-family: "Michroma", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.5rem;
+    padding: 10px 20px;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+    color: aliceblue;
+}
+
+#btn-start{
+    background-color: green;
+}
+
+#btn-start:hover{
+    background-color: rgb(168, 214, 168);
+}
+
+#btn-stop{
+    background-color: red;
+}
+
+#btn-stop:hover{
+    background-color: rgb(240, 110, 110);
+}
+
+#btn-reset{
+    background-color: purple;
+}
+
+#btn-reset:hover{
+    background-color: rgb(218, 133, 218);
+}
